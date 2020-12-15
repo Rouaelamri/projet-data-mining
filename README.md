@@ -27,6 +27,9 @@
 ## 3- Traitement des tweets : NLP (Natural LanguageProcessing)
 - Installation et importation du nltk qui est une boîte-à-outil permettant la création de programmes pour l'analyse de texte. Cet ensemble a été créé à l'origine par Steven Bird et Edward Loper, en relation avec des cours de linguistique informatique à l'Université de Pennsylvanie en 2001.
 - Stopwords pour enlever les mots inutiles. Nous avons besoin des mots inutiles afin que les données soient davatange traduisibles pour l'ordinateur. En NLP, de telles données (des mots) sont qualifiées par stop words. Par conséquent, ces mots n'ont aucune signification pour nous, et nous souhaiterions les retirer.
+
+
+
 - PorterStemmer pour garder seulement la racine des mots
 
 ## 4- Classification des tweets:
@@ -36,5 +39,8 @@
 
 # Conclusion
 ### L'API de Twitter est extrêmement utile dans les applications d'exploration de données et peut fournir de vastes informations sur l'opinion publique.
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Rouaelamri/projet-data-mining/main)
 
 
